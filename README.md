@@ -4,8 +4,8 @@ MetCoOp WG Backend has been established to design unified interfaces to each ins
 
 The group has two ultimate goals:
 
-1. Every institute has opportunity to use each other’s data as an operational backup and as part of meteorologists’ workflow
-Every institute’s open data is shared in unified format via unified interfaces
+1. Every institute has opportunity to use each other’s data as an operational backup and as part of forecast workflow
+2. Every institute’s open data is shared in unified format via unified interfaces
 2. All designed interfaces should be based on some existing commonly used standard (e.g. OGC, WIS, INSPIRE, OpenWeather, etc.).
 
 Before taking a new task, group will ensure that necessary pre-requirements are fulfilled:
