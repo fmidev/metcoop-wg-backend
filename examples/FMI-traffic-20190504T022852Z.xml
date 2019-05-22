@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><alert xmlns="urn:oasis:names:tc:emergency:cap:1.2">
+  <identifier>2.49.0.0.246.0.FI.190504022852.74ARBjOezSWZ0Xxe055j</identifier>
+  <sender>cap@fmi.fi</sender>
+  <sent>2019-05-04T05:28:52+03:00</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>fi-FI</language>
+    <category>Met</category>
+    <event>Liikennesää</event>
+    <urgency>Future</urgency>
+    <severity>Severe</severity>
+    <certainty>Likely</certainty>
+    <effective>2019-05-04T05:28:52+03:00</effective>
+    <onset>2019-05-04T06:00:00+03:00</onset>
+    <expires>2019-05-04T12:00:00+03:00</expires>
+    <senderName>Ilmatieteen laitos</senderName>
+    <description>Liikennesää: Ajokeli muuttuu erittäin huonoksi aamulla ja aamupäivällä lumipyryn vuoksi.</description>
+    <web>http://ilmatieteenlaitos.fi/varoitukset</web>
+    <contact>Ilmatieteen laitos - Turvallisuussääpäivystys</contact>
+    <parameter>
+      <valueName>awareness_level</valueName>
+      <value>3; orange; Severe</value>
+    </parameter>
+    <parameter>
+      <valueName>awareness_type</valueName>
+      <value>2; snow-ice</value>
+    </parameter>
+    <area>
+      <areaDesc>Keski-Suomi, Pohjois-Savo, Pohjois-Karjala</areaDesc>
+      <geocode>
+        <valueName>EMMA_ID</valueName>
+        <value>FI039</value>
+      </geocode>
+      <geocode>
+        <valueName>EMMA_ID</valueName>
+        <value>FI027</value>
+      </geocode>
+      <geocode>
+        <valueName>EMMA_ID</valueName>
+        <value>FI001</value>
+      </geocode>
+    </area>
+  </info>
+  <info>
+    <language>sv-SE</language>
+    <category>Met</category>
+    <event>Trafikvädret</event>
+    <urgency>Future</urgency>
+    <severity>Severe</severity>
+    <certainty>Likely</certainty>
+    <effective>2019-05-04T05:28:52+03:00</effective>
+    <onset>2019-05-04T06:00:00+03:00</onset>
+    <expires>2019-05-04T12:00:00+03:00</expires>
+    <senderName>Meteorologiska institutet</senderName>
+    <description>Trafikvädret: Väglaget blir mycket dåligt på morgonen och förmiddagen p.g.a. snöyra.</description>
+    <web>http://sv.ilmatieteenlaitos.fi/varningar</web>
+    <contact>Meteorologiska institutet - Väder- och säkerhetscentralen</contact>
+    <parameter>
+      <valueName>awareness_level</valueName>
+      <value>3; orange; Severe</value>
+    </parameter>
+    <parameter>
+      <valueName>awareness_type</valueName>
+      <value>2; snow-ice</value>
+    </parameter>
+    <area>
+      <areaDesc>Keski-Suomi, Pohjois-Savo, Pohjois-Karjala</areaDesc>
+      <geocode>
+        <valueName>EMMA_ID</valueName>
+        <value>FI039</value>
+      </geocode>
+      <geocode>
+        <valueName>EMMA_ID</valueName>
+        <value>FI027</value>
+      </geocode>
+      <geocode>
+        <valueName>EMMA_ID</valueName>
+        <value>FI001</value>
+      </geocode>
+    </area>
+  </info>
+  <info>
+    <language>en-GB</language>
+    <category>Met</category>
+    <event>Traffic weather warning</event>
+    <urgency>Future</urgency>
+    <severity>Severe</severity>
+    <certainty>Likely</certainty>
+    <effective>2019-05-04T05:28:52+03:00</effective>
+    <onset>2019-05-04T06:00:00+03:00</onset>
+    <expires>2019-05-04T12:00:00+03:00</expires>
+    <senderName>Finnish Meteorological Institute</senderName>
+    <description>Traffic weather warning: Very bad road conditions are expected in the morning because of snowstorm.</description>
+    <web>http://en.ilmatieteenlaitos.fi/warnings</web>
+    <contact>Finnish Meteorological Institute - Safety Weather Service</contact>
+    <parameter>
+      <valueName>awareness_level</valueName>
+      <value>3; orange; Severe</value>
+    </parameter>
+    <parameter>
+      <valueName>awareness_type</valueName>
+      <value>2; snow-ice</value>
+    </parameter>
+    <area>
+      <areaDesc>Keski-Suomi, Pohjois-Savo, Pohjois-Karjala</areaDesc>
+      <geocode>
+        <valueName>EMMA_ID</valueName>
+        <value>FI039</value>
+      </geocode>
+      <geocode>
+        <valueName>EMMA_ID</valueName>
+        <value>FI027</value>
+      </geocode>
+      <geocode>
+        <valueName>EMMA_ID</valueName>
+        <value>FI001</value>
+      </geocode>
+    </area>
+  </info>
+</alert>
