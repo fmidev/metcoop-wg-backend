@@ -1,5 +1,3 @@
-DRAFT v. 0.1
-
 MetCoOp WG Backend has been established to design unified interfaces to each institutes’ data.
 
 The group has two ultimate goals:
