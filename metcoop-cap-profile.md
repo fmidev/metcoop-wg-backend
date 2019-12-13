@@ -137,7 +137,7 @@ Not used
 #### onset
 Mandatory
 
-When the alert starts. Often, it will be the same as sent.
+When the alert starts. If the warning is updated after the event has started, it will be the same as <sent>. 
 
 #### expires
 Optional
