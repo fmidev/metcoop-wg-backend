@@ -156,7 +156,7 @@ Mandatory
 
 Short summary of the entire message(140 characters)
 
-#### decription
+#### description
 Mandatory
 
 #### instruction
@@ -194,7 +194,7 @@ If the alert is in area with several areaDesc (i.e. multiple provinces), multipl
 #### areaDesc
 Mandatory
 
-#### polygons
+#### polygon
 Mandatory
 
 Coastlines and country borders should be followed as accurately as possible. However, polygons *may* extend country borders although alerts are only valid in the issuing country.
