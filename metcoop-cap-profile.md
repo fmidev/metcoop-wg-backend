@@ -27,7 +27,7 @@ Format: Does not matter to FMI, MET and SMHI.
 #### sender
 Mandatory
 
-Format: WMO Organization ID (OID).
+Format: WMO Organization ID (OID) with urn:oid: prefix.
 
 #### sent
 Mandatory
@@ -62,7 +62,7 @@ Mandatory
 
 Identifies the message as following MetCoOP CAP Standard, versioned.
 
-Format: Link to the versioned specification document.
+Format: Link to the versioned specification document staring with profile:cap:
 
 #### note
 Not used
